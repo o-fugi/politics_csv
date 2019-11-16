@@ -1,0 +1,19 @@
+selection,value,question
+Climate change,24,policy_choice
+Wealth inequality,10,policy_choice
+Health care,9,policy_choice
+Education,5,policy_choice
+Gun control,2,policy_choice
+Immigration,1,policy_choice
+Foreign policy,1,policy_choice
+Social reform,1,policy_choice
+Warren,20,pres_choice
+Yang,12,pres_choice
+Buttigieg,8,pres_choice
+Sanders,1,pres_choice
+Other,0,pres_choice
+Bloomberg,0,pres_choice
+Harris,0,pres_choice
+Klobuchar,0,pres_choice
+Gabbard,0,pres_choice
+Trump,0,pres_choice
